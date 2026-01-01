@@ -175,6 +175,7 @@ https://awakesecurity.com/blog/threat-hunting-for-paexec/
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
+https://bazaar.abuse.ch/browse/tag/one/
 https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/
 https://bazaar.abuse.ch/sample/6f3aa9362d72e806490a8abce245331030d1ab5ac77e400dd475748236a6cc81/
 https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
@@ -332,6 +333,7 @@ https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-c
 https://clement.notin.org/blog/2020/09/12/CVE-2020-7315-McAfee-Agent-DLL-injection/
 https://cloud.google.com/access-context-manager/docs/audit-logging
 https://cloud.google.com/binary-authorization
+https://cloud.google.com/blog/topics/threat-intelligence/cybercriminals-weaponize-fake-ai-websites
 https://cloud.google.com/dlp/docs/reference/rest/v2/projects.content/reidentify
 https://cloud.google.com/dns/docs/reference/v1/managedZones
 https://cloud.google.com/iam/docs/reference/rest/v1/projects.serviceAccounts
@@ -1895,6 +1897,7 @@ https://learn.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-install
 https://learn.microsoft.com/en-us/dotnet/framework/tools/regsvcs-exe-net-services-installation-tool
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-authentication-flows
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-configuration-changes
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-credentials
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#end-user-consent
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#end-user-stopped-due-to-risk-based-consent
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#new-owner
@@ -2302,6 +2305,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/syslog.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -2347,6 +2351,7 @@ https://medium.com/falconforce/falconfriday-direct-system-calls-and-cobalt-strik
 https://medium.com/geekculture/text4shell-exploit-walkthrough-ebc02a01f035
 https://medium.com/mitre-engenuity/att-ck-for-containers-now-available-4c2359654bf1
 https://medium.com/palantir/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63
+https://medium.com/r3d-buck3t/red-teaming-in-cloud-leverage-azure-frontdoor-cdn-for-c2-redirectors-79dd9ca98178
 https://medium.com/s2wblog/analysis-of-destructive-malware-whispergate-targeting-ukraine-9d5d158f19f3
 https://medium.com/system-weakness/detecting-as-rep-roasting-attacks-b5b3965f9714
 https://medium.com/tenable-techblog/bypassing-authentication-on-arcadyan-routers-with-cve-2021-20090-and-rooting-some-buffalo-ea1dd30980c2
@@ -2382,6 +2387,7 @@ https://msdn.microsoft.com/de-de/library/windows/desktop/aa363389(v=vs.85).aspx
 https://msdn.microsoft.com/en-us/library/cc220234.aspx
 https://msdn.microsoft.com/powershell/reference/5.1/microsoft.powershell.utility/Invoke-WebRequest
 https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/
+https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/
 https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-40444
 https://msrc.microsoft.com/update-guide/vulnerability/ADV170021
 https://msrc.microsoft.com/update-guide/vulnerability/ADV210003
@@ -3325,6 +3331,7 @@ https://unicode-explorer.com/c/202E
 https://unit42.paloaltonetworks.com/actors-still-exploiting-sharepoint-vulnerability/
 https://unit42.paloaltonetworks.com/bluesky-ransomware/
 https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/
+https://unit42.paloaltonetworks.com/chromeloader-malware/
 https://unit42.paloaltonetworks.com/cloaked-ursa-phishing/
 https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/
 https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/
@@ -3392,9 +3399,11 @@ https://web.archive.org/web/20210126045316/https://darrenmartyn.ie/2021/01/24/vi
 https://web.archive.org/web/20210511204621/https://github.com/AlsidOfficial/WSUSpendu
 https://web.archive.org/web/20210512154016/https://github.com/AlsidOfficial/WSUSpendu/blob/master/WSUSpendu.ps1
 https://web.archive.org/web/20210701042336/https://github.com/afwu/PrintNightmare
+https://web.archive.org/web/20210725081645/https://github.com/cube0x0/CVE-2021-36934
 https://web.archive.org/web/20210901184449/https://www.fireeye.com/blog/threat-research/2021/09/unknown-actor-using-clfs-log-files-for-stealth.html
 https://web.archive.org/web/20220224045756/https://www.ria.ee/sites/default/files/content-editors/kuberturve/tale_of_gamaredon_infection.pdf
 https://web.archive.org/web/20220306121156/https://www.x86matthew.com/view_post?id=ntdll_pipe
+https://web.archive.org/web/20220319032520/https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection
 https://web.archive.org/web/20220419045003/https://cyberwardog.blogspot.com/2017/04/chronicles-of-threat-hunter-hunting-for.html
 https://web.archive.org/web/20220421061949/https://github.com/klinix5/InstallerFileTakeOver
 https://web.archive.org/web/20220422215221/https://twitter.com/malware_traffic/status/1517622327000846338
@@ -3730,6 +3739,7 @@ https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
+https://www.linkedin.com/posts/mauricefielenbach_sharepoint-incidentresponse-windowssecurity-activity-7352653907363303425-bL2f
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
 https://www.linkedin.com/pulse/outlook-backdoor-using-vba-samir-b-/
@@ -3788,6 +3798,7 @@ https://www.microsoft.com/en-us/security/blog/2022/07/26/malicious-iis-extension
 https://www.microsoft.com/en-us/security/blog/2022/10/18/defenders-beware-a-case-for-post-ransomware-investigations/
 https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/
 https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/
+https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
 https://www.microsoft.com/en-us/security/blog/2023/03/24/guidance-for-investigating-attacks-using-cve-2023-23397/
 https://www.microsoft.com/en-us/security/blog/2023/04/11/guidance-for-investigating-attacks-using-cve-2022-21894-the-blacklotus-campaign/
 https://www.microsoft.com/en-us/security/blog/2023/04/18/nation-state-threat-actor-mint-sandstorm-refines-tradecraft-to-attack-high-value-targets/
@@ -3856,6 +3867,7 @@ https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/Unit_4
 https://www.papercut.com/kb/Main/PO-1216-and-PO-1219
 https://www.passcape.com/windows_password_recovery_dpapi_credhist
 https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-2-1.pdf
+https://www.pcrisk.com/removal-guides/31853-funklocker-funksec-ransomware
 https://www.pdq.com/pdq-deploy/
 https://www.peew.pw/blog/2017/11/26/exploring-cmdkey-an-edge-case-for-privilege-escalation
 https://www.php.net/manual/en/features.commandline.php
@@ -3952,6 +3964,7 @@ https://www.slipstick.com/developer/custom-form/clean-outlooks-forms-cache/
 https://www.snip2code.com/Snippet/4397378/UAC-bypass-using-EditionUpgradeManager-C/
 https://www.socinvestigation.com/most-common-windows-event-ids-to-hunt-mind-map/
 https://www.softpedia.com/get/Antivirus/Removal-Tools/ithurricane-PowerTool.shtml
+https://www.softperfect.com/products/networkscanner/
 https://www.softwaretestinghelp.com/how-to-use-ngrok/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://www.spamhaus.org/statistics/tlds/
@@ -4051,6 +4064,7 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?even
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=634
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90015
 https://www.ultimatewindowssecurity.com/wiki/page.aspx?spid=NSrpcservers
+https://www.unicode.org/versions/Unicode5.2.0/ch02.pdf
 https://www.uptycs.com/blog/kuraystealer-a-bandit-using-discord-webhooks
 https://www.uptycs.com/blog/lolbins-are-no-laughing-matter
 https://www.uptycs.com/blog/warzonerat-can-now-evade-with-process-hollowing
@@ -4210,6 +4224,7 @@ https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransom
 https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attack-vectors-apt37
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
+https://x.com/Max_Mal_/status/1826179497084739829
 https://x.com/russianpanda9xx/status/1940831134759506029
 https://x.com/yarden_shafir/status/1822667605175324787
 https://xmrig.com/docs/miner/command-line-options
